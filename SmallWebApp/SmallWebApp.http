@@ -1,0 +1,6 @@
+@SmallWebApp_HostAddress = http://localhost:5166
+
+GET {{SmallWebApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
